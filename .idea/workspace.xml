@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c8c7246-5290-4b08-9274-60506d1a6bec" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1huryTZ23ecLdcMT6OQxKB3VOVo" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="be.thomasmore.tdd" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Exercise1Test">
+    <configuration name="Exercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="be.thomasmore.tdd.Exercise1" />
+      <module name="UnitTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.thomasmore.tdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise1Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.thomasmore.tdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="be.thomasmore.tdd" />
+      <option name="MAIN_CLASS_NAME" value="be.thomasmore.tdd.Exercise1Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise1Test.calculateSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.thomasmore.tdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="be.thomasmore.tdd" />
+      <option name="MAIN_CLASS_NAME" value="be.thomasmore.tdd.Exercise1Test" />
+      <option name="METHOD_NAME" value="calculateSum" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Exercise1Test" />
+        <item itemvalue="JUnit.Exercise1Test.calculateSum" />
+        <item itemvalue="Application.Exercise1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c8c7246-5290-4b08-9274-60506d1a6bec" name="Default Changelist" comment="" />
+      <created>1600872072608</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600872072608</updated>
+      <workItem from="1600872073907" duration="221000" />
+      <workItem from="1600872496190" duration="5000" />
+      <workItem from="1600872607204" duration="403000" />
+      <workItem from="1600873109190" duration="2670000" />
+      <workItem from="1601214547784" duration="969000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="208" y="179" key="#Project_Structure" timestamp="1600872086926">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="208" y="179" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1600872086926" />
+    <state x="828" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600872245222">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="828" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600872245222" />
+    <state x="965" y="100" width="862" height="840" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1601216764574">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="965" y="100" width="862" height="840" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601216764574" />
+    <state width="1002" height="279" key="GridCell.Tab.0.bottom" timestamp="1601216920956">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1002" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601216920956" />
+    <state width="1002" height="279" key="GridCell.Tab.0.center" timestamp="1601216920956">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1002" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601216920956" />
+    <state width="1002" height="279" key="GridCell.Tab.0.left" timestamp="1601216920956">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1002" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601216920956" />
+    <state width="1002" height="279" key="GridCell.Tab.0.right" timestamp="1601216920956">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1002" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601216920956" />
+    <state x="880" y="95" key="SettingsEditor" timestamp="1600872991133">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="880" y="95" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600872991133" />
+    <state x="1136" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1601214549367">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1136" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601214549367" />
+    <state x="1144" y="414" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1600873362853">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1144" y="414" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1600873362853" />
+    <state x="1211" y="224" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1600876045943">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1211" y="224" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600876045943" />
+  </component>
+</project>
