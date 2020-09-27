@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c8c7246-5290-4b08-9274-60506d1a6bec" name="Default Changelist" comment="" />
+    <list default="true" id="5c8c7246-5290-4b08-9274-60506d1a6bec" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/be/thomasmore/tdd/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/thomasmore/tdd/ProductTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +26,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1huryTZ23ecLdcMT6OQxKB3VOVo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -50,9 +55,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Exercise1Test">
-    <configuration name="Exercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="be.thomasmore.tdd.Exercise1" />
+  <component name="RunManager" selected="JUnit.ProductTest">
+    <configuration name="Product" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="be.thomasmore.tdd.Product" />
       <module name="UnitTesting" />
       <extension name="coverage">
         <pattern>
@@ -95,11 +100,44 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ProductTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.thomasmore.tdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="be.thomasmore.tdd" />
+      <option name="MAIN_CLASS_NAME" value="be.thomasmore.tdd.ProductTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductTest.productDescription" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.thomasmore.tdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="be.thomasmore.tdd" />
+      <option name="MAIN_CLASS_NAME" value="be.thomasmore.tdd.ProductTest" />
+      <option name="METHOD_NAME" value="productDescription" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ProductTest" />
+        <item itemvalue="JUnit.ProductTest.productDescription" />
+        <item itemvalue="Application.Product" />
         <item itemvalue="JUnit.Exercise1Test" />
         <item itemvalue="JUnit.Exercise1Test.calculateSum" />
-        <item itemvalue="Application.Exercise1" />
       </list>
     </recent_temporary>
   </component>
@@ -117,7 +155,7 @@
       <workItem from="1600872496190" duration="5000" />
       <workItem from="1600872607204" duration="403000" />
       <workItem from="1600873109190" duration="2670000" />
-      <workItem from="1601214547784" duration="969000" />
+      <workItem from="1601214547784" duration="2558000" />
     </task>
     <servers />
   </component>
@@ -137,22 +175,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="965" y="100" width="862" height="840" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601216764574" />
-    <state width="1002" height="279" key="GridCell.Tab.0.bottom" timestamp="1601216920956">
+    <state x="1201" y="237" key="#com.intellij.ide.util.MemberChooser" timestamp="1601217521870">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1002" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601216920956" />
-    <state width="1002" height="279" key="GridCell.Tab.0.center" timestamp="1601216920956">
+    <state x="1201" y="237" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1601217521870" />
+    <state width="1002" height="279" key="GridCell.Tab.0.bottom" timestamp="1601218667847">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1002" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601216920956" />
-    <state width="1002" height="279" key="GridCell.Tab.0.left" timestamp="1601216920956">
+    <state width="1002" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601218667847" />
+    <state width="1002" height="279" key="GridCell.Tab.0.center" timestamp="1601218667846">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1002" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601216920956" />
-    <state width="1002" height="279" key="GridCell.Tab.0.right" timestamp="1601216920956">
+    <state width="1002" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601218667846" />
+    <state width="1002" height="279" key="GridCell.Tab.0.left" timestamp="1601218667846">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1002" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601216920956" />
+    <state width="1002" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601218667846" />
+    <state width="1002" height="279" key="GridCell.Tab.0.right" timestamp="1601218667846">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1002" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601218667846" />
     <state x="880" y="95" key="SettingsEditor" timestamp="1600872991133">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -165,9 +207,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1144" y="414" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1600873362853" />
-    <state x="1211" y="224" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1600876045943">
+    <state x="1211" y="224" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1601218113852">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1211" y="224" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600876045943" />
+    <state x="1211" y="224" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601218113852" />
   </component>
 </project>
