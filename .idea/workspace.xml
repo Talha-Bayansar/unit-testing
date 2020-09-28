@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c8c7246-5290-4b08-9274-60506d1a6bec" name="Default Changelist" comment="" />
+    <list default="true" id="5c8c7246-5290-4b08-9274-60506d1a6bec" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UnitTesting/be/thomasmore/tdd/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UnitTesting/be/thomasmore/tdd/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UnitTesting/be/thomasmore/tdd/ProductTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UnitTesting/be/thomasmore/tdd/ProductTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/thomasmore/tdd/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/thomasmore/tdd/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/thomasmore/tdd/ProductTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/thomasmore/tdd/ProductTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +57,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ProductTest">
+  <component name="RunManager" selected="JUnit.ProductTest.productDescription">
     <configuration name="Product" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="be.thomasmore.tdd.Product" />
       <module name="UnitTesting" />
@@ -129,9 +135,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ProductTest" />
         <item itemvalue="JUnit.ProductTest.productDescription" />
         <item itemvalue="Application.Product" />
+        <item itemvalue="JUnit.ProductTest" />
         <item itemvalue="JUnit.Exercise1Test" />
         <item itemvalue="JUnit.Exercise1Test.calculateSum" />
       </list>
@@ -151,7 +157,8 @@
       <workItem from="1600872496190" duration="5000" />
       <workItem from="1600872607204" duration="403000" />
       <workItem from="1600873109190" duration="2670000" />
-      <workItem from="1601214547784" duration="3110000" />
+      <workItem from="1601214547784" duration="4242000" />
+      <workItem from="1601318402034" duration="1159000" />
     </task>
     <servers />
   </component>
@@ -175,30 +182,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1201" y="237" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1601217521870" />
-    <state width="1002" height="279" key="GridCell.Tab.0.bottom" timestamp="1601218667847">
+    <state width="1390" height="279" key="GridCell.Tab.0.bottom" timestamp="1601319617281">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1002" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601218667847" />
-    <state width="1002" height="279" key="GridCell.Tab.0.center" timestamp="1601218667846">
+    <state width="1390" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601319617281" />
+    <state width="1390" height="279" key="GridCell.Tab.0.center" timestamp="1601319617281">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1002" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601218667846" />
-    <state width="1002" height="279" key="GridCell.Tab.0.left" timestamp="1601218667846">
+    <state width="1390" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601319617281" />
+    <state width="1390" height="279" key="GridCell.Tab.0.left" timestamp="1601319617281">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1002" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601218667846" />
-    <state width="1002" height="279" key="GridCell.Tab.0.right" timestamp="1601218667846">
+    <state width="1390" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601319617281" />
+    <state width="1390" height="279" key="GridCell.Tab.0.right" timestamp="1601319617281">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1002" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601218667846" />
+    <state width="1390" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601319617281" />
     <state x="880" y="95" key="SettingsEditor" timestamp="1600872991133">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="880" y="95" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600872991133" />
-    <state x="1136" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1601214549367">
+    <state x="1136" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1601318415378">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1136" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601214549367" />
+    <state x="1136" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601318415378" />
     <state x="1144" y="414" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1600873362853">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

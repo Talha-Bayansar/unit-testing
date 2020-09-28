@@ -3,9 +3,9 @@ package be.thomasmore.tdd;
 public class Product {
     public String name;
     public int size;
-    public int percentage;
+    public double percentage;
 
-    public Product(String name, int size, int percentage) {
+    public Product(String name, int size, double percentage) {
         this.name = name;
         this.size = size;
         this.percentage = percentage;
@@ -13,12 +13,24 @@ public class Product {
 
     public String productDescription(){
         String s = "";
-        if (size == 0 && percentage != 0){
-            s += percentage + "%";
-        } else if (size != 0 && percentage == 0){
-            s += size + "CL";
-        } else if (size != 0 && percentage != 0){
-            s += size + "CL " + percentage + "%";
+        int intValue = (int)Math.round(percentage);
+        double roundedDouble = Math.round(percentage * 10)/10.0;
+        if (percentage % intValue == 0){
+            if (size == 0 && percentage != 0){
+                s += intValue + "%";
+            } else if (size != 0 && intValue == 0){
+                s += size + "CL";
+            } else if (size != 0 && intValue != 0){
+                s += size + "CL " + intValue + "%";
+            }
+        }else {
+            if (size == 0 && percentage != 0) {
+                s += roundedDouble + "%";
+            } else if (size != 0 && roundedDouble == 0) {
+                s += size + "CL";
+            } else if (size != 0 && roundedDouble != 0) {
+                s += size + "CL " + roundedDouble + "%";
+            }
         }
         return s;
     }
