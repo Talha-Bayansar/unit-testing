@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c8c7246-5290-4b08-9274-60506d1a6bec" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UnitTesting/be/thomasmore/tdd/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UnitTesting/be/thomasmore/tdd/Product.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UnitTesting/be/thomasmore/tdd/ProductTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UnitTesting/be/thomasmore/tdd/ProductTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/be/thomasmore/tdd/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/thomasmore/tdd/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/be/thomasmore/tdd/ProductTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/thomasmore/tdd/ProductTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/thomasmore/tdd/Filter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -158,7 +154,7 @@
       <workItem from="1600872607204" duration="403000" />
       <workItem from="1600873109190" duration="2670000" />
       <workItem from="1601214547784" duration="4242000" />
-      <workItem from="1601318402034" duration="1159000" />
+      <workItem from="1601318402034" duration="1457000" />
     </task>
     <servers />
   </component>
