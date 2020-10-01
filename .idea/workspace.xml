@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c8c7246-5290-4b08-9274-60506d1a6bec" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/be/thomasmore/tdd/Kassa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/thomasmore/tdd/KassaTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -153,7 +155,7 @@
       <workItem from="1601214547784" duration="4242000" />
       <workItem from="1601318402034" duration="1717000" />
       <workItem from="1601412358796" duration="2335000" />
-      <workItem from="1601535982234" duration="2627000" />
+      <workItem from="1601535982234" duration="5714000" />
     </task>
     <servers />
   </component>
@@ -205,9 +207,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1144" y="414" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1600873362853" />
-    <state x="1211" y="224" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1601218113852">
+    <state x="1211" y="224" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1601539588653">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1211" y="224" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601218113852" />
+    <state x="1211" y="224" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601539588653" />
   </component>
 </project>
