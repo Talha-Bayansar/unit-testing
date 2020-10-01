@@ -12,7 +12,7 @@ public class Product {
     }
 
     public String productDescription(){
-        String s = "";
+        String s = "• ";
         int intValue = (int)Math.round(percentage);
         double roundedDouble = Math.round(percentage * 10)/10.0;
         if (percentage % intValue == 0){
